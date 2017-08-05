@@ -8,4 +8,6 @@ let sayMessage = function(fruitArray, position){
 const fruitArray = ["orang", "fig"]
 sayMessage(fruitArray, 2)
 
+
 const boi = "B O I"
+console.log("hello")
