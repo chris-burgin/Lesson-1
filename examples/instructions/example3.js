@@ -7,3 +7,5 @@ let sayMessage = function(fruitArray, position){
 // execute `sayMessage` and send it a message
 const fruitArray = ["orang", "fig"]
 sayMessage(fruitArray, 2)
+
+const boi = "B O I"
